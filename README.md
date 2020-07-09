@@ -1,1 +1,1 @@
-# Hollow Pyramid P
+# Hollow Pyramid Pattern in Java.
